@@ -696,13 +696,13 @@ export default function UserPage() {
                     </p>
                     <div className='flex justify-center gap-4'>
                       <a
-                        href='#'
+                        href='https://www.instagram.com/iran_tbgs'
                         className='w-12 h-12 md:w-14 md:h-14 bg-surface border border-border shadow-sm rounded-[1rem] flex items-center justify-center text-text-primary hover:border-primary hover:text-primary transition-colors'
                       >
                         <Github className='w-5 h-5 md:w-6 md:h-6' />
                       </a>
                       <a
-                        href='#'
+                        href='https://github.com/fitrantubagus-stack'
                         className='w-12 h-12 md:w-14 md:h-14 bg-surface border border-border shadow-sm rounded-[1rem] flex items-center justify-center text-text-primary hover:border-pink-500 hover:text-pink-500 transition-colors'
                       >
                         <Instagram className='w-5 h-5 md:w-6 md:h-6' />
